@@ -1,0 +1,36 @@
+html, body, .navbar {
+	width:100%;
+}
+
+.m-b-2 h3, .glyphicon {
+	display:inline;
+}
+
+.navbar {
+
+	padding-left:0;
+	padding-right:0;
+}
+
+.navbar .navbar-brand {
+	color: rgba(255, 255, 255, .85);
+	font-size: 1rem;
+	padding-top: .45rem;
+}
+
+.jumbotron {
+	background: url('../img/jumbo-bg.jpg');
+	background-size: cover;
+}
+
+.jumbotron .p-t-3 .display-2, .jumbotron .p-t-3 .lead {
+
+	color:#000000;
+	font-weight: bold;
+}
+
+.btn,
+.active {
+	transition: .4s;
+}
+
